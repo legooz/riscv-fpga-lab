@@ -177,7 +177,7 @@ module imem(input  logic [31:0] a,
   logic [31:0] RAM[63:0];
 
   initial
-      $readmemh("Program_1.dat",RAM);
+      $readmemh("baseline-program.hex",RAM);
 
   assign rd = RAM[a[31:2]]; // word aligned
 endmodule

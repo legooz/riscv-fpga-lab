@@ -5,7 +5,7 @@
 // 
 // Create Date: 03/05/2018 01:39:25 PM
 // Design Name: 
-// Module Name: workSheet2ALU
+// Module Name: ALU
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 

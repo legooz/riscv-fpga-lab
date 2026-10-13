@@ -4,8 +4,8 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: alu/ALU.sv",
     "original_sha256": "38f4371960abfa29c952b6aae24d3c173d304f26524afb687426c299932c18b7",
-    "published_sha256": "38f4371960abfa29c952b6aae24d3c173d304f26524afb687426c299932c18b7",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "4355931914a9706e1ef2d88d7b0658cb43d75bfcab41437e1f7901d0e12fc074",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -153,12 +153,12 @@
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "riscv/baseline/Program_1.dat",
+    "path": "riscv/baseline/baseline-program.hex",
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: riscv-single-cycle/Program_1.dat",
     "original_sha256": "e7ebfa7bbc130d7691b4953ef0e1856eb4c137a7a51f1a930c0a4b174af1c717",
     "published_sha256": "e7ebfa7bbc130d7691b4953ef0e1856eb4c137a7a51f1a930c0a4b174af1c717",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Course-adapted educational processor based on Section 7.6 of Digital Design and Computer Architecture. Baseline and template portions are not claimed as original student architecture."
   },
   {
@@ -166,8 +166,8 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: riscv-single-cycle/riscv_single.sv",
     "original_sha256": "ae9277de6e6b74a07d0b2038d25269b175955c91bbc34fb42080370acbbc3b41",
-    "published_sha256": "62d4f0fec69036d739f5f8953b2f42991e84ef35b1e3ec155a77fbf191fd7dc3",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "9aae50939276df7b8c72d154f560f5b9bb5ec4b16571b62bfa45b16be52eb4e5",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Course-adapted educational processor based on Section 7.6 of Digital Design and Computer Architecture. Baseline and template portions are not claimed as original student architecture."
   },
   {
@@ -225,57 +225,57 @@
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/seven-segment-ram/sevenSegmentRamAssignment.sv",
+    "path": "fpga/seven-segment-ram/sevenSegmentRam.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: seven-segment-ram/sevenSegmentRamAssignment.sv",
     "original_sha256": "a61d9e660909f2c3724e8c6b624f659bbd6c23ecad5a78b5b5442b7ed1995d97",
     "published_sha256": "a61d9e660909f2c3724e8c6b624f659bbd6c23ecad5a78b5b5442b7ed1995d97",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/taillights/blinkers.sv",
+    "path": "fpga/t-bird-tail-lights/blinkers.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: taillights/blinkers.sv",
     "original_sha256": "18087467fd3d04c8f7a8b607d062b6c97e251906c31520d36a5ee1b4436eb251",
     "published_sha256": "18087467fd3d04c8f7a8b607d062b6c97e251906c31520d36a5ee1b4436eb251",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/taillights/blinkersTestbench.sv",
+    "path": "fpga/t-bird-tail-lights/blinkersTestbench.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: taillights/blinkersTestbench.sv",
     "original_sha256": "49f52d1ec608ff92f9287734387654aa5e572e01f19e7f20e5d02b4fdc4ef6ee",
     "published_sha256": "49f52d1ec608ff92f9287734387654aa5e572e01f19e7f20e5d02b4fdc4ef6ee",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/taillights/slowClock.sv",
+    "path": "fpga/t-bird-tail-lights/slowClock.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: taillights/slowClock.sv",
     "original_sha256": "62375088a376378fd19712afc9c1a7fa0aae79dbaf8e88ccdcf87bcd88d9b0f8",
     "published_sha256": "62375088a376378fd19712afc9c1a7fa0aae79dbaf8e88ccdcf87bcd88d9b0f8",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/taillights/taillight.sv",
+    "path": "fpga/t-bird-tail-lights/taillight.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: taillights/taillight.sv",
     "original_sha256": "2a99efe23b978b92474ce05ba15e22ccb6314c6335e20942d526cbbd2b2feaa8",
     "published_sha256": "2a99efe23b978b92474ce05ba15e22ccb6314c6335e20942d526cbbd2b2feaa8",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/taillights/tBirdTaillightTop.sv",
+    "path": "fpga/t-bird-tail-lights/tBirdTaillightTop.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: taillights/tBirdTaillightTop.sv",
     "original_sha256": "859e6be6186b55d076f91a0d2a56dfeac7452d8796483103d2388e2aeb8a8d06",
     "published_sha256": "859e6be6186b55d076f91a0d2a56dfeac7452d8796483103d2388e2aeb8a8d06",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -346,62 +346,62 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Original Assignment 06 submitted processor",
     "original_sha256": "abd8616fa85081ae28e365bc16cc75a6b144c2ca2dbdaff6d026dcf843f9ff5b",
-    "published_sha256": "60576164fc7b973829b43a17426522654d382366a2997ab019c6d36e9bd2e3b2",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "f2a4dc6781ae054f0c0f4a4bc0525f3936b3bda27d70c560fef960b01024aae8",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Student LUI/XOR extension of a course-adapted textbook single-cycle processor; see NOTICE.md."
   },
   {
-    "path": "riscv/lui-xor/Program_2.dat",
+    "path": "riscv/lui-xor/lui-xor-program.hex",
     "course": "CSCE A342, Fall 2024",
     "source": "Original local project dependency omitted from submission ZIP",
     "original_sha256": "a3354ef0592c8da66cc23bac4fa9c8ace23e1e2689893bcf2f7efbd0f80f7702",
     "published_sha256": "2ecca820bde919b1ec55ebc5627c32be70edcf1330c6f3b9e1dae1a5989b86b9",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Original course instruction test program; preserved as a processor input fixture."
   },
   {
-    "path": "fpga/taillights/submitted-variant/blinkers.sv",
+    "path": "fpga/t-bird-tail-lights/submitted-variant/blinkers.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Assignment 03 original submitted file: blinkers.sv",
     "original_sha256": "18087467fd3d04c8f7a8b607d062b6c97e251906c31520d36a5ee1b4436eb251",
     "published_sha256": "18087467fd3d04c8f7a8b607d062b6c97e251906c31520d36a5ee1b4436eb251",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/taillights/submitted-variant/blinkers.tv",
+    "path": "fpga/t-bird-tail-lights/submitted-variant/blinkers.tv",
     "course": "CSCE A342, Fall 2024",
     "source": "Assignment 03 original submitted file: blinkers.tv",
     "original_sha256": "c0156962ef3b4da2a2bcbd9846383ca990df3e6c7e50c96559c2836bb05b8c0a",
     "published_sha256": "b8778b72da4c09a1628e89570022037b7cc040137df8ca9bbd611ace51c01ef7",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/taillights/submitted-variant/slowClock.sv",
+    "path": "fpga/t-bird-tail-lights/submitted-variant/slowClock.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Assignment 03 original submitted file: slowClock.sv",
     "original_sha256": "62375088a376378fd19712afc9c1a7fa0aae79dbaf8e88ccdcf87bcd88d9b0f8",
     "published_sha256": "62375088a376378fd19712afc9c1a7fa0aae79dbaf8e88ccdcf87bcd88d9b0f8",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/taillights/submitted-variant/taillight.sv",
+    "path": "fpga/t-bird-tail-lights/submitted-variant/taillight.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Assignment 03 original submitted file: taillight.sv",
     "original_sha256": "71e5ae19b411ac2a3f266a4119cba05e0dbdb03c48ec49cd81cb8b11b4e7a837",
     "published_sha256": "71e5ae19b411ac2a3f266a4119cba05e0dbdb03c48ec49cd81cb8b11b4e7a837",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "fpga/taillights/submitted-variant/tBirdTaillightTop.sv",
+    "path": "fpga/t-bird-tail-lights/submitted-variant/tBirdTaillightTop.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Assignment 03 original submitted file: tBirdTaillightTop.sv",
     "original_sha256": "2eb9e94bb60e377819f6014b3daa3c9cfda75d72113eb330b5040e245df9a94b",
     "published_sha256": "2eb9e94bb60e377819f6014b3daa3c9cfda75d72113eb330b5040e245df9a94b",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -414,39 +414,39 @@
     "attribution": "Course test fixture accompanying the ALU exercise."
   },
   {
-    "path": "historical-variants/goozen_assignment3_342/tBirdTaillightTop.sv",
+    "path": "historical-variants/t-bird-tail-lights/tBirdTaillightTop.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Recovered original local RTL variant",
     "original_sha256": "26c9a130ae82e4bcf6d674be07aa19cda3572e3a09609a22eedcd35a78ff3275",
     "published_sha256": "26c9a130ae82e4bcf6d674be07aa19cda3572e3a09609a22eedcd35a78ff3275",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "historical-variants/goozen_assignment2_question4/goozen_assignment2_question4.srcs/sources_1/new/dFlop.sv",
+    "path": "historical-variants/flip-flop-and-mux-stubs/dFlop.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Recovered original local RTL variant",
     "original_sha256": "c26d49953737da89f49f47f996fba58168c2d653657db2cd609dec0610823e3b",
     "published_sha256": "c26d49953737da89f49f47f996fba58168c2d653657db2cd609dec0610823e3b",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "historical-variants/goozen_assignment2_question4/goozen_assignment2_question4.srcs/sources_1/new/jkFlop.sv",
+    "path": "historical-variants/flip-flop-and-mux-stubs/jkFlop.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Recovered original local RTL variant",
     "original_sha256": "d5fcc652172b8eb6a97c3a31b66709baf81aec4729e0907cdd1f6e4408507f76",
     "published_sha256": "d5fcc652172b8eb6a97c3a31b66709baf81aec4729e0907cdd1f6e4408507f76",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "historical-variants/goozen_assignment2_question4/goozen_assignment2_question4.srcs/sources_1/new/muxtest.sv",
+    "path": "historical-variants/flip-flop-and-mux-stubs/muxtest.sv",
     "course": "CSCE A342, Fall 2024",
     "source": "Recovered original local RTL variant",
     "original_sha256": "4b5fd87640349edc43591814d9f9e17cf650a01b239a8bfd361e3326c752b369",
     "published_sha256": "4b5fd87640349edc43591814d9f9e17cf650a01b239a8bfd361e3326c752b369",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   }
 ]

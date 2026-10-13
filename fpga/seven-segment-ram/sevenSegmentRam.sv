@@ -1,4 +1,5 @@
-//complete this module
+// Button-controlled RAM interface with a seven-segment display.
+// Course/scaffold attribution is recorded in NOTICE.md.
 
 module sevenSegmentRamAssignment(   input   logic           storeButton,     // when initially pressed, should increment LED counter
                                     input   logic           upButton,

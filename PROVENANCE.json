@@ -4,8 +4,8 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: alu/ALU.sv",
     "original_sha256": "38f4371960abfa29c952b6aae24d3c173d304f26524afb687426c299932c18b7",
-    "published_sha256": "4355931914a9706e1ef2d88d7b0658cb43d75bfcab41437e1f7901d0e12fc074",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
+    "published_sha256": "730d51b82f8084780244a3193c40b60931d9382f3b58d854c3711f1bdc1ebc5b",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved. Source header now describes the project; non-comment code unchanged.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -22,8 +22,8 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: alu/testbenchALU.sv",
     "original_sha256": "3e7e1d8a263f27a40dac70477b27f941cbfd3d5b88bdce5d32cb83c1ca853122",
-    "published_sha256": "3e7e1d8a263f27a40dac70477b27f941cbfd3d5b88bdce5d32cb83c1ca853122",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "28447f63c1ffc9dcd5f1f15520e0c81ece749265ee196ade8eadcabcf4d60462",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Source header now describes the project; non-comment code unchanged.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -229,8 +229,8 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: seven-segment-ram/sevenSegmentRamAssignment.sv",
     "original_sha256": "a61d9e660909f2c3724e8c6b624f659bbd6c23ecad5a78b5b5442b7ed1995d97",
-    "published_sha256": "a61d9e660909f2c3724e8c6b624f659bbd6c23ecad5a78b5b5442b7ed1995d97",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
+    "published_sha256": "06fbcacaf81dfbc972d60ed7d0173b2e40aa1dfee1fb13fb889abd64927d389c",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved. Source header now describes the project; non-comment code unchanged.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -427,8 +427,8 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Recovered original local RTL variant",
     "original_sha256": "c26d49953737da89f49f47f996fba58168c2d653657db2cd609dec0610823e3b",
-    "published_sha256": "c26d49953737da89f49f47f996fba58168c2d653657db2cd609dec0610823e3b",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
+    "published_sha256": "a6da70cc6c7e5e78bd4cd6da77a44fe995505bdc405742035593800daed7c902",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved. Source header now describes the project; non-comment code unchanged.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -436,8 +436,8 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Recovered original local RTL variant",
     "original_sha256": "d5fcc652172b8eb6a97c3a31b66709baf81aec4729e0907cdd1f6e4408507f76",
-    "published_sha256": "d5fcc652172b8eb6a97c3a31b66709baf81aec4729e0907cdd1f6e4408507f76",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
+    "published_sha256": "b4a90c911c6a5f5c072fc600c6aaebe39805197ded156aca835bc0dd387d2fc7",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved. Source header now describes the project; non-comment code unchanged.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -445,8 +445,8 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Recovered original local RTL variant",
     "original_sha256": "4b5fd87640349edc43591814d9f9e17cf650a01b239a8bfd361e3326c752b369",
-    "published_sha256": "4b5fd87640349edc43591814d9f9e17cf650a01b239a8bfd361e3326c752b369",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
+    "published_sha256": "eaed964f50a63060c0fabf8773cfdf1fe5497b0f99810b6b1c38e7c9d67241df",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved. Source header now describes the project; non-comment code unchanged.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   }
 ]

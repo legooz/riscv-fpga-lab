@@ -1,0 +1,58 @@
+[
+  {
+    "file": "binary-to-thermometer.mp4",
+    "sha256": "18d24b00fd5a9cb612828ee2466ce8e635f46dc2e1efed1bf846f8fecb5defa0",
+    "bytes": 6749706,
+    "duration_seconds": 21.2,
+    "source": "Original CSCE A342 demonstration recording, Fall 2024",
+    "processing": "H.264/AAC MP4 at up to 1280-pixel dimensions; camera metadata and chapter data removed; original orientation and audio retained."
+  },
+  {
+    "file": "flip-flop-logic.mp4",
+    "sha256": "67eba1ac02148c63dfd39c945eefa7d557deaded5ac45dae8a56378437e4f6f7",
+    "bytes": 6033997,
+    "duration_seconds": 16.32,
+    "source": "Original CSCE A342 demonstration recording, Fall 2024",
+    "processing": "H.264/AAC MP4 at up to 1280-pixel dimensions; camera metadata and chapter data removed; original orientation and audio retained."
+  },
+  {
+    "file": "rotary-counter.mp4",
+    "sha256": "64927b1a31653a9fb7af434e8dc04970beae165bc4d9344251f96b578065bb8f",
+    "bytes": 9293838,
+    "duration_seconds": 33.7,
+    "source": "Original CSCE A342 demonstration recording, Fall 2024",
+    "processing": "H.264/AAC MP4 at up to 1280-pixel dimensions; camera metadata and chapter data removed; original orientation and audio retained."
+  },
+  {
+    "file": "taillight-sequence.mp4",
+    "sha256": "e89fd950c1a7ae85f51ff77444f79d9e2fa6abd3b5a7ea125050b601bdcf87ae",
+    "bytes": 8419272,
+    "duration_seconds": 23.43,
+    "source": "Original CSCE A342 demonstration recording, Fall 2024",
+    "processing": "H.264/AAC MP4 at up to 1280-pixel dimensions; camera metadata and chapter data removed; original orientation and audio retained."
+  },
+  {
+    "file": "taillight-extra-credit.mp4",
+    "sha256": "4dc9c79d40f9fbafd0ef72e625a3ccfd4dc66ec8f0227f948556852e7639e4fa",
+    "bytes": 6908281,
+    "duration_seconds": 19.51,
+    "source": "Original CSCE A342 demonstration recording, Fall 2024",
+    "processing": "H.264/AAC MP4 at up to 1280-pixel dimensions; camera metadata and chapter data removed; original orientation and audio retained."
+  },
+  {
+    "file": "seven-segment-ram.mp4",
+    "sha256": "30853d0cab79e47302daa4185cd06744bcc1d0826850af9587c0959e2ade7c1c",
+    "bytes": 27881205,
+    "duration_seconds": 75.88,
+    "source": "Original CSCE A342 demonstration recording, Fall 2024",
+    "processing": "H.264/AAC MP4 at up to 1280-pixel dimensions; camera metadata and chapter data removed; original orientation and audio retained."
+  },
+  {
+    "file": "alu-demo.mp4",
+    "sha256": "1393b1550091e183ed4f4e536234055e7ed928446c0e7a11e9b72af207bdf058",
+    "bytes": 33621195,
+    "duration_seconds": 134.06,
+    "source": "Original CSCE A342 demonstration recording, Fall 2024",
+    "processing": "H.264/AAC MP4 at up to 1280-pixel dimensions; camera metadata and chapter data removed; original orientation and audio retained."
+  }
+]

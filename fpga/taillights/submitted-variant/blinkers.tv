@@ -1,0 +1,20 @@
+10_000  // reset blinkers FSM, all bits of blinkingLights turn off
+01_100  // turn signal on, most significant bit of blinkingLights turns on
+01_110  // turn signal remains on, two most significant bits on
+01_111  // turn signal remains on, all bits of blinkingLights on
+01_000  // turn signal remains on, all bits of blinkingLights turn off
+00_000
+
+01_100  // turn signal on, most significant bit of blinkingLights turns on
+00_000 // signal off, stay 
+
+01_100  
+01_110 
+00_000
+
+01_100
+01_110
+01_111
+00_000
+
+

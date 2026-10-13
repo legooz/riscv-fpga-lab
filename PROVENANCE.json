@@ -4,8 +4,8 @@
     "course": "CSCE A342, Fall 2024",
     "source": "Previously archived CSCE A342 source: alu/ALU.sv",
     "original_sha256": "38f4371960abfa29c952b6aae24d3c173d304f26524afb687426c299932c18b7",
-    "published_sha256": "730d51b82f8084780244a3193c40b60931d9382f3b58d854c3711f1bdc1ebc5b",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved. Source header now describes the project; non-comment code unchanged.",
+    "published_sha256": "37d01ff21e52489a57211cec53107243dee19c4a4664956e292893c724ec0662",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved. Source header now describes the project; non-comment code unchanged. Remaining instructional ALU comments now describe the implemented button priority, operations and LED mapping; non-comment code unchanged.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
